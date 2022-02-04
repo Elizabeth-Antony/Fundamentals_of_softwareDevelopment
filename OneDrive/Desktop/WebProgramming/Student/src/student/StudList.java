@@ -25,7 +25,7 @@ FTL stack trace ("~" means nesting-related):
 public class StudList {
   public static void main(String[] args) {
        
-        Student[] s1 = new Student[3];
+        Student[] s1 = new Student[5];
         
         Scanner input = new Scanner(System.in);
         
