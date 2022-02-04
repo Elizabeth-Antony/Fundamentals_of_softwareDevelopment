@@ -14,7 +14,7 @@ public class Student {
      * @param args the command line arguments
      */
    private String name;
-
+   String prog_name;
     /**
      * @return the name
      */
